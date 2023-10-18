@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1694816221036,
+    "title": "Паста",
+    "img": "https://st2.depositphotos.com/1373322/7246/i/450/depositphotos_72468759-stock-photo-italian-pasta-with-vegetables-closeup.jpg",
+    "goods": [
+      {
+        "id": 1695585332980,
+        "name": "Bucatini",
+        "price": 259,
+        "discount": 239,
+        "img": "https://img02.rl0.ru/afisha/e780x-i/daily.afisha.ru/uploads/images/c/a6/ca6bb747276e966055c63042996905d9.jpg",
+        "filling": "Копчена шинка, цибуля, перець пекучий, часник, помідори у власному соку, вино біле сухе, масло оливкове, перець чорний мелений, сіль, базилік",
+        "active": true
+      },
+      {
+        "id": 1695942758309,
+        "name": "Angel hair",
+        "price": 251,
+        "img": "https://img.delicious.com.au/ZBcGNfVB/del/2016/01/prawn-and-spinach-angel-hair-pasta-with-prawn-oil-26292-2.jpg",
+        "filling": "Паста з волосся ангела, зелені креветки, помідори черрі, листя молодого шпинату, базилік",
+        "active": true
+      },
+      {
+        "id": 1695944918149,
+        "name": "Carbonara",
+        "price": 239,
+        "img": "https://handmade39.ru/wp-content/uploads/2023/02/spaghetti-carbonara.jpg",
+        "filling": "Спагетті, грудинка варено-копчена, куряче яйце, жовтки, сир пармезан, Олія вершкова та оливкова, часник, сіль, перець",
+        "active": true
+      },
+      {
+        "id": 1695945319048,
+        "name": "Arrabbiata",
+        "price": 219,
+        "img": "https://ik.imagekit.io/wez2loho68v/prod/recipes/main%20course/penne%20arrabiata%20with%20beef%20pepperoni/penne-arrabiata-with-beef-pepperoni.jpg",
+        "filling": "Паста пенне, пепероні з яловичини, томати у власному соку, цибуля ріпчаста, часник, перець чилі, оливкова олія",
+        "active": true
+      },
+      {
+        "id": 1695945825713,
+        "name": "Pappardellea",
+        "price": 249,
+        "img": "https://insanelygoodrecipes.com/wp-content/uploads/2022/03/Pappardelle-Pasta-with-Beef-in-a-Bowl.jpg",
+        "filling": "Паста, консервований тунець, помідори протерті, оливки без кісточок, часник, оливкова олія",
+        "active": true
+      },
+      {
+        "id": 1695946196452,
+        "name": "Alla norma",
+        "price": 249,
+        "img": "https://marleyspoon.com/media/recipes/58228/main_photos/medium/veggie_bolognese_alla_norma-db26ecc4ea5b7d9bda4dc30441b8fd65.jpeg",
+        "filling": "Паста, баклажани, помідори протерті, часник, рікотта, італійські трави, оливкова олія, сіль, перець",
+        "active": true
+      },
+      {
+        "id": 1695946408961,
+        "name": "Pasta with salmon",
+        "price": 255,
+        "img": "https://saltpepperskillet.com/wp-content/uploads/smoked-salmon-pasta-on-plate-side-view-horizontal.jpg",
+        "filling": "Паста, філе лосося, часник, вершки, вино біле сухе, цибуля ріпчаста, сіль, перець",
+        "active": true
+      },
+      {
+        "id": 1695946574183,
+        "name": "Lemon spaghetti",
+        "price": 219,
+        "img": "https://www.edimdoma.ru/system/images/contents/0001/5687/wide/shutterstock_681804988.jpg?1652449907",
+        "filling": "Спагетті, лимони, пармезан, оливкова олія, базилік свіжий",
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": 1694816234426,
+    "title": "Піца",
+    "img": "https://st3.depositphotos.com/29959740/37519/i/450/depositphotos_375195152-stock-photo-hearty-italian-pizza-on-a.jpg"
+  },
+  {
+    "id": 1694860639335,
+    "title": "Бар",
+    "img": "https://i0.wp.com/otpusk-v-evrope.info/wp-content/uploads/2016/07/image253.jpg",
+    "subCat": [
+      {
+        "id": 1694892028546,
+        "title": "Вино",
+        "img": "https://tartufi.ru/wp-content/uploads/2021/05/Toskana-2-1024x678.jpg"
+      },
+      {
+        "id": 1694894309043,
+        "title": "Прохолодні напої",
+        "img": "https://st.depositphotos.com/2338515/4507/i/450/depositphotos_45076843-stock-photo-summer-drink.jpg"
+      },
+      {
+        "id": 1694894385203,
+        "title": "Зігрівальні напої",
+        "img": "https://italy4.me/wp-content/uploads/2017/01/Cappuccino_cr.jpg"
+      }
+    ]
+  }
+]
