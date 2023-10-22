@@ -135,6 +135,8 @@ const findCategoryById = (categories, id) => {
    return null;
 };
 
+
+
 const root = {
    getUser: ({ id }) => {
       return client.find((user) => user.id == id);
